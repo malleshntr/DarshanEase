@@ -1,4 +1,4 @@
-console.log("Server.js started");
+require("dotenv").config();
 const express = require('express');
 const bodyParser = require('body-parser');
 require('./config/db');
