@@ -1,6 +1,8 @@
 const express = require('express');
 const router = express.Router();
 const userController = require('../controllers/userController.js');
+//console.log("Controller path:", require.resolve('../controllers/userController.js'));
+
 
 // Auth
 router.post('/ulogin', userController.ulogin);

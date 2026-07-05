@@ -89,9 +89,10 @@ exports.getDarshanById = async (req, res) => {
     }
 };
 
-// User booking
+//User booking
 exports.createBooking = async (req, res) => {
     try {
+        delete req.body.organizerId;
         const order = new Booking(req.body);
         await order.save();
         res.status(201).json(order);

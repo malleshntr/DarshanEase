@@ -219,7 +219,7 @@ const Utemple = () => {
                                                         width: '100%',
                                                         padding: '14px',
                                                         background: 'var(--primary)',
-                                                        color: '#fff',
+                                                        color: '#210beb',
                                                         borderRadius: '12px',
                                                         fontWeight: 'bold',
                                                         fontSize: '1.1rem',
