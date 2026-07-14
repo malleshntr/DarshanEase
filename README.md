@@ -1,4 +1,4 @@
-# 🌸 Darshan Ease
+# 🛕 Darshan Ease
 A modern web application that simplifies temple darshan management by enabling devotees to book darshan slots, access temple information, receive notifications, and manage bookings through an intuitive and responsive interface.
 
 ---
