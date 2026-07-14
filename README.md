@@ -80,41 +80,32 @@ The project combines a modern React frontend with a powerful backend and databas
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
-This repository is organized according to the SmartBridge AI & ML Project lifecycle.
-
-```
+```text
 Darshan-Ease/
 │
-├── 1. Brainstorming & Ideation/
+├── Frontend/
+│   ├── public/
+│   ├── src/
+│   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── vite.config.js
+│   └── README.md
 │
-├── 2. Requirement Analysis/
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── uploads/
+│   ├── Server.js
+│   ├── package.json
+│   └── package-lock.json
 │
-├── 3. Project Design Phase/
-│
-├── 4. Project Planning Phase/
-│
-├── 5. Project Development Phase/
-│   ├── Darshan Ease-code/
-│   │   ├── src/
-│   │   ├── public/
-│   │   ├── package.json
-│   │   ├── vite.config.js
-│   │   ├── index.html
-│   │   ├── README.md
-│   │   └── ...
-│   │
-│   ├── Coding & Solution.pdf
-│   ├── Code Layout & Readability.pdf
-│   └── Functional Features.pdf
-│
-├── 6. Performance Testing/
-│
-├── 7. Project Documentation/
-│
-├── 8. Project Demonstration/
-│
+├── .gitignore
 └── README.md
 ```
 
