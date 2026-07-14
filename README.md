@@ -1,32 +1,108 @@
+# 🌸 Darshan Ease
+A modern web application that simplifies temple darshan management by enabling devotees to book darshan slots, access temple information, receive notifications, and manage bookings through an intuitive and responsive interface.
+
+---
+
+## 🌐 Live Demo
+
+**Vercel**
+
+View in Vercel: https://your-vercel-link.vercel.app/
+
+---
+
+## 📂 Repository
+
+**GitHub:** https://github.com/your-username/Darshan-Ease
+
+---
+
+# 📖 Project Overview
+
+Darshan Ease is a smart temple management platform designed to reduce waiting time and improve the overall pilgrimage experience.
+
+The application provides an interactive dashboard where devotees can register, book darshan slots, view temple details, receive notifications, and manage their bookings seamlessly.
+
+The project combines a modern React frontend with a powerful backend and database to deliver a fast, secure, and user-friendly experience.
+
+---
+
+# ✨ Features
+
+- User Authentication
+- Temple Dashboard
+- Online Darshan Slot Booking
+- QR Code Based Entry
+- Booking History
+- Notifications & Announcements
+- Temple Information
+- Admin Dashboard
+- Crowd Management
+- Responsive UI
+- Secure Login
+- Modern User Interface
+
+---
+
+# 🛠️ Technology Stack
+
+## Frontend
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+
+## Backend
+
+- Node.js
+- Express.js
+
+## Database
+
+- MongoDB
+
+## Authentication
+
+- JWT
+- bcrypt
+
+## Tools
+
+- npm
+- Git
+- GitHub
+
+## Deployment
+
+- Vercel
+- Render
+
+---
+
+# 📂 Repository Structure
+
+This repository is organized according to the SmartBridge AI & ML Project lifecycle.
+
+```
 Darshan-Ease/
 │
 ├── 1. Brainstorming & Ideation/
-│   ├── Brainstorming.pdf
-│   └── Ideation.pdf
 │
 ├── 2. Requirement Analysis/
-│   ├── Requirement Analysis.pdf
-│   └── SRS.pdf
 │
 ├── 3. Project Design Phase/
-│   ├── Use Case Diagram.pdf
-│   ├── Class Diagram.pdf
-│   ├── Architecture Diagram.pdf
-│   └── Sequence Diagram.pdf
 │
 ├── 4. Project Planning Phase/
-│   ├── Project Plan.pdf
-│   ├── Sprint Planning.pdf
-│   └── Gantt Chart.pdf
 │
 ├── 5. Project Development Phase/
 │   ├── Darshan Ease-code/
 │   │   ├── src/
 │   │   ├── public/
 │   │   ├── package.json
-│   │   ├── vite.config.js (or vite.config.ts)
-│   │   ├── README.md
+│   │   ├── vite.config.js
 │   │   ├── index.html
+│   │   ├── README.md
 │   │   └── ...
 │   │
 │   ├── Coding & Solution.pdf
@@ -34,17 +110,73 @@ Darshan-Ease/
 │   └── Functional Features.pdf
 │
 ├── 6. Performance Testing/
-│   ├── Test Cases.pdf
-│   ├── Performance Report.pdf
-│   └── Screenshots/
 │
 ├── 7. Project Documentation/
-│   ├── Final Report.pdf
-│   └── User Manual.pdf
 │
 ├── 8. Project Demonstration/
-│   ├── PPT.pptx
-│   ├── Demo Video.mp4
-│   └── Demo Screenshots/
 │
 └── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/Darshan-Ease.git
+```
+
+### Navigate to the project folder
+
+```bash
+cd "5.Project Development Phase/Darshan Ease-code"
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run the development server
+
+```bash
+npm run dev
+```
+
+### Open your browser
+
+```
+http://localhost:5173
+```
+
+---
+
+# 📊 Modules
+
+- Home
+- User Authentication
+- Temple Dashboard
+- Darshan Booking
+- QR Code Generation
+- Booking History
+- Notifications
+- Admin Panel
+
+---
+
+# 🎯 Objectives
+
+- Simplify temple darshan booking.
+- Reduce waiting time.
+- Improve crowd management.
+- Provide a secure booking platform.
+- Offer a responsive and modern web experience.
+
+---
+
+# 📜 License
+
+This project was developed for educational purposes as part of the SmartBridge Internship.
