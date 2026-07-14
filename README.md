@@ -13,7 +13,7 @@ View in Vercel: https://your-vercel-link.vercel.app/
 
 ## 📂 Repository
 
-**GitHub:** https://github.com/your-username/Darshan-Ease
+**GitHub:** https://github.com/malleshntr/DarshanEase
 
 ---
 
