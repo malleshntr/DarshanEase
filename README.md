@@ -63,12 +63,6 @@ The project combines a modern React frontend with a powerful backend and databas
 - npm
 - Git
 - GitHub
-
-## Deployment
-
-- Vercel
-- Render
-
 ---
 
 ## 📂 Repository Structure
