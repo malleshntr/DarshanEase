@@ -2,15 +2,6 @@
 A modern web application that simplifies temple darshan management by enabling devotees to book darshan slots, access temple information, receive notifications, and manage bookings through an intuitive and responsive interface.
 
 ---
-
-## 🌐 Live Demo
-
-**Vercel**
-
-View in Vercel: https://your-vercel-link.vercel.app/
-
----
-
 ## 📂 Repository
 
 **GitHub:** https://github.com/malleshntr/DarshanEase
